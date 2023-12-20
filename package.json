@@ -19,6 +19,7 @@
     "svelte": "^3.49.0"
   },
   "dependencies": {
+    "@directus/sdk": "^13.0.2",
     "express": "^4.17.3",
     "sirv-cli": "^2.0.0"
   }
